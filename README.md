@@ -13,4 +13,4 @@
 >    
    >2.From the scatter plot, as age increasing, the overall trend of no-show counts seems to decrease.  
 >    
-   >3.From the last graph, the no-show counts are similar when there is no diabetes or alcoholism. but different with the presence of 
+   >3.From the last graph, the no-show counts are similar when there is no diabetes or alcoholism
